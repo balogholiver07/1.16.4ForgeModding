@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": [
+        {
+            "tag": "minecraft:planks"
+        }
+    ],
+    "result": "tutorial:example_food",
+    "experience": 10,
+    "cookingtime": 20
+}

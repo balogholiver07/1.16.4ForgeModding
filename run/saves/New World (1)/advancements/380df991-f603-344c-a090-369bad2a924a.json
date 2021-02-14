@@ -1,7 +1,82 @@
 {
-  "minecraft:recipes/tools/clock": {
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2021-02-14 21:26:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2021-02-14 21:26:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-02-14 20:15:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2021-02-14 20:15:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2021-02-14 20:34:55 +0100",
+      "minecraft:mountains": "2021-02-14 21:25:44 +0100",
+      "minecraft:taiga": "2021-02-14 20:14:10 +0100",
+      "minecraft:taiga_hills": "2021-02-14 20:13:58 +0100",
+      "minecraft:deep_frozen_ocean": "2021-02-14 20:35:04 +0100",
+      "minecraft:birch_forest": "2021-02-14 21:25:38 +0100",
+      "minecraft:beach": "2021-02-14 20:15:56 +0100",
+      "minecraft:river": "2021-02-14 20:34:53 +0100",
+      "minecraft:birch_forest_hills": "2021-02-14 21:25:40 +0100",
+      "minecraft:wooded_mountains": "2021-02-14 21:25:43 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2021-02-14 21:27:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:40 +0100"
     },
     "done": true
   },
@@ -17,27 +92,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2021-02-14 20:15:45 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2021-02-14 20:15:32 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2021-02-14 20:15:45 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "has_redstone": "2021-02-14 20:15:32 +0100"
+      "has_planks": "2021-02-14 21:26:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:40 +0100"
     },
     "done": true
   },
@@ -47,33 +128,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
+  "minecraft:recipes/redstone/oak_door": {
     "criteria": {
-      "has_redstone": "2021-02-14 20:15:32 +0100"
+      "has_planks": "2021-02-14 21:26:40 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
-      "in_water": "2021-02-14 20:15:45 +0100"
+      "has_birch_planks": "2021-02-14 21:26:48 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_redstone": "2021-02-14 20:15:32 +0100"
+      "has_planks": "2021-02-14 21:26:40 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_redstone": "2021-02-14 20:15:32 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2021-02-14 20:15:32 +0100"
+      "has_coal": "2021-02-14 21:27:04 +0100"
     },
     "done": true
   },
@@ -89,16 +164,143 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "minecraft:cold_ocean": "2021-02-14 20:34:55 +0100",
-      "minecraft:taiga": "2021-02-14 20:14:10 +0100",
-      "minecraft:taiga_hills": "2021-02-14 20:13:58 +0100",
-      "minecraft:deep_frozen_ocean": "2021-02-14 20:35:04 +0100",
-      "minecraft:beach": "2021-02-14 20:15:56 +0100",
-      "minecraft:river": "2021-02-14 20:34:53 +0100"
+      "has_planks": "2021-02-14 21:26:48 +0100"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2021-02-14 20:15:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-02-14 20:15:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2021-02-14 20:15:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2021-02-14 20:15:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2021-02-14 20:15:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2021-02-14 20:15:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-02-14 20:15:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2021-02-14 21:26:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2021-02-14 21:26:40 +0100"
+    },
+    "done": true
   },
   "DataVersion": 2584
 }
