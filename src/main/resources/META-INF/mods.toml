@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+[[mods]]
+modId="tutorial"
+version="1.0"
+displayName="Tutorial Mod"
+credits="Thanks for the download"
+authors="Velior7 for making the mod."
+description='''
+Hello there
+'''
+
+[[dependencies.tutorial]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.tutorial]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"

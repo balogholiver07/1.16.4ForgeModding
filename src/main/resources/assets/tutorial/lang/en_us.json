@@ -1,0 +1,10 @@
+{
+	"item.tutorial.example_item": "Yellow Thingy",
+	"item.tutorial.special_item": "Zombie Spawn",
+	"tooltip.special_item.hold_shift": "Hold \u00A7eShift \u00A77for more information",
+	"item.tutorial.example_food": "Ruby Food",
+	"block.tutorial.example_block": "Block of Ruby",
+	"block.tutorial.custom_block": "Wooden Grave",
+	"block.tutorial.example_ore": "Ruby Ore",
+	"itemGroup.tutorialtab": "Modded Items"
+}
